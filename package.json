@@ -1,0 +1,22 @@
+{
+  "name": "amazon-ses-test",
+  "version": "0.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kenokabe/amazon-ses-test"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenokabe/amazon-ses-test/issues"
+  },
+  "homepage": "https://github.com/kenokabe/amazon-ses-test",
+  "dependencies": {
+    "aws-sdk": "*"
+  },
+  "devDependencies": {}
+}
